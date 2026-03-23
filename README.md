@@ -1,38 +1,47 @@
-<h1 align="center">Thulaxan Uthayakumar</h1>
-<h3 align="center">Associate Software Engineer | Full Stack Developer</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Thulaxan Uthayakumar</h1>
 
 <p align="center">
-  <a href="mailto:thulaxanuthayakumar@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/thulaxan">LinkedIn</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Associate+Software+Engineer;Full+Stack+Developer;Building+clean+and+scalable+solutions" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:thulaxanuthayakumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Professional-informational?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/thulaxan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 Profile
+### 👨‍💻 About Me
 
-Results-driven Software Engineer with experience in designing and developing scalable web applications.  
-Skilled in full-stack development, system integration, and delivering efficient, user-focused solutions.  
-Strong understanding of modern development practices and collaborative Agile environments.
+🔹 Associate Software Engineer with experience in full-stack web development  
+🔹 Focused on building scalable, efficient, and user-friendly applications  
+🔹 Comfortable working with modern frameworks, databases, and cloud tools  
+🔹 Passionate about clean code, performance, and continuous learning  
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Tech Stack
 
-**Languages**  
+💻 **Languages**  
 C# • JavaScript • SQL • HTML • CSS  
 
-**Frameworks & Technologies**  
+⚙️ **Frameworks & Technologies**  
 ASP.NET Core • .NET • React • Node.js • Express • Laravel • Tailwind CSS  
 
-**Databases**  
+🗄️ **Databases**  
 SQL Server • MongoDB • Firebase  
 
-**Tools & Platforms**  
+☁️ **Tools & Platforms**  
 Git • GitHub • AWS • Azure • WordPress • Figma  
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
-📧 thulaxanuthayakumar@gmail.com  
-📍 Sri Lanka  
+📧 **Email:** thulaxanuthayakumar@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/thulaxan  
+📍 **Location:** Sri Lanka
