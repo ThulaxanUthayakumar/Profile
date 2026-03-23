@@ -1,132 +1,116 @@
-# 👋 Hi, I'm Thulaxan Uthayakumar
+<h1 align="center">Hi 👋, I'm Thulaxan Uthayakumar</h1>
+<h3 align="center">Associate Software Engineer | Full Stack Developer | MERN | .NET</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ASP.NET+%7C+React+%7C+Go;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+  <a href="https://linkedin.com/in/thulaxan">LinkedIn</a> •
+  <a href="mailto:thulaxanuthayakumar@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 B.Sc. (Hons) IT Graduate (Second Class)  
-💼 Former Software Engineering Intern @ Ewis  
-💻 Full Stack Developer passionate about building real-world solutions  
-🌍 Based in Sri Lanka  
-🎯 Goal: Become a top-tier Software Engineer  
-
----
-
-## 🧠 What I Do
-
-- 🔧 Build full-stack web applications  
-- ⚡ Develop REST APIs & scalable backend systems  
-- 🎨 Create responsive & modern UI using React  
-- 🤖 Work on AI/NLP (Tamil Language Processing)  
+💡 Passionate Full Stack Developer with 1+ year experience building scalable web applications  
+🚀 Skilled in MERN Stack, .NET, and modern web technologies  
+🎯 Focused on performance, clean architecture, and user experience  
+🤝 Strong team player with Agile experience  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- C# | JavaScript | SQL | HTML | CSS
 
----
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-### ⚙️ Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
-
----
+### ⚙️ Frameworks & Libraries
+- ASP.NET Core | .NET Framework  
+- React.js | Node.js | Express.js  
+- Laravel | Tailwind CSS  
 
 ### 🗄️ Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+- SQL Server | MongoDB | Firebase  
+
+### ☁️ Tools & Platforms
+- Git & GitHub  
+- AWS | Azure  
+- WordPress | Figma  
 
 ---
 
-### ☁️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 🔥 Featured Projects
+
+### 🚗 Car Rental System (MERN Stack)
+- User authentication & booking system  
+- Vehicle management with secure APIs  
+- Role-based access control  
+
+### 🛒 BookPulse (ASP.NET 8)
+- Full e-commerce system  
+- CRUD operations for products & categories  
+- Shopping cart & order management  
+
+### 🏢 ERP System (MERN Stack)
+- HR, Finance, Inventory modules  
+- REST API architecture  
+- Scalable system design  
+
+### 🎵 Spotify Clone (React)
+- Music streaming UI  
+- Playlist & search functionality  
+- Responsive design  
+
+### 🧾 POS System (Laravel)
+- Billing & inventory management  
+- Role-based dashboard  
+- Sales analytics  
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Research & Innovation
 
-### 📚 BookPulse (E-commerce Web App)
-- ASP.NET 8 + SQL  
-- Product & user management, shopping cart  
+📄 **IEEE Publication**  
+"Revolutionizing Tamil Language Analysis using NLP"
 
-🔗 https://github.com/ThulaxanUthayakumar/BookPulse  
-
----
-
-### 🧠 Tamil NLP AI Project
-- Grammar & spelling correction  
-- Text summarization + speech-to-text  
-- Built using TensorFlow, Seq2Seq, MT5  
+- Built NLP model for Tamil language  
+- Used Transformer & Seq2Seq models  
+- Features: Grammar correction, summarization  
 
 ---
 
-### 🛒 POS System (Laravel)
-- Billing system + inventory management  
+## 💼 Experience
+
+### 🏢 Associate Software Engineer  
+**Habb (Pvt) Ltd** | 2024 – Present  
+
+- Developed scalable web applications  
+- Improved system performance & UI/UX  
+- Worked in Agile teams  
+
+### 🎓 Intern Software Engineer  
+**EWIS Career Training** | 2023  
+
+- Built HRM & payment systems  
+- Worked on MERN & PHP projects  
+- Participated in client requirement analysis  
 
 ---
 
-### 🌐 MERN ERP System
-- Full ERP solution (MongoDB, Express, React, Node)  
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThulaxanUthayakumar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThulaxanUthayakumar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 📫 Contact Me
 
-- 🎓 IT Graduate with Second Class  
-- 💼 Internship experience in Software Engineering  
-- 🚀 Built multiple full-stack applications  
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-linkedin-link  
-- 🌐 Portfolio: your-portfolio-link  
-
----
-
-## 🔥 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThulaxanUthayakumar&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+📧 Email: thulaxanuthayakumar@gmail.com  
+📍 Location: Vavuniya, Sri Lanka  
+🔗 LinkedIn: https://linkedin.com/in/thulaxan  
 
 ---
 
 ## ⚡ Fun Fact
-
-💡 I love turning ideas into real-world applications and solving problems with clean code 🚀
+I love building real-world systems that solve business problems 🚀
